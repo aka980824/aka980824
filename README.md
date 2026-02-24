@@ -1,127 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=3561f1&height=180&text=Git%20Profile&animation=scaleIn&fontColor=000000&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=3561f1&height=180&text=JaeWoo%20Park&animation=scaleIn&fontColor=000000&fontSize=70" />
+</div>
+
+<div align="center">
+
+### Web · Collaboration · Quality Mindset
+
+<b>웹 서비스를 끝까지 완성해 본 개발자</b>  
+일정·할 일·채팅·커뮤니티를 통합한 서비스 <b>Planix</b>를 팀장으로 개발하며  
+설계–구현–협업–버그 분석까지 전 과정 경험을 쌓았습니다.
+
+<a href="https://teamppro.github.io/totalproject/main"><img src="https://img.shields.io/badge/Live%20Demo-3561f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/TeampPro/totalproject"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:aka980824@naver.com"><img src="https://img.shields.io/badge/Contact-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+
 </div>
 
 ---
 
+## 🔥 Featured Project
+
+### Planix — 일정 공유 · 스케줄 관리 · 실시간 채팅 · 커뮤니티 통합 서비스
+- **기간**: 2025.10.29 ~ 2025.12.10  | **역할**: 팀장(기획·일정·협업 리딩)
+- **한 줄 소개**: 여러 앱에 흩어진 일정/할일/채팅을 **한 화면에서 통합 관리**하는 협업 서비스
+- **핵심 기능**
+  - 캘린더 일정 CRUD, Todo 완료 처리
+  - **Drag & Drop 일정 이동(시간 유지 + 날짜만 변경)**
+  - 공유 일정 & D-Day 표시
+  - 커뮤니티(게시글/댓글/공지), 관리자(회원/게시글 관리)
+  - **WebSocket 실시간 채팅(1:1/그룹)**
+- **문제 해결(실력 포인트)**
+  - Drag&Drop 후 타임라인 표시 오류 → **시작/종료 날짜 불일치 원인 분석** → start/end 동일 날짜 재조합 로직으로 안정화
+- **Tech**
+  - FE: React(Vite), JavaScript, Axios, React Router
+  - BE: Java, Spring Boot, Spring Security, JPA, MariaDB, WebSocket, JWT
+  - Collab: GitHub, Sourcetree, Notion, Discord
+
+> Demo: https://teamppro.github.io/totalproject/main  
+> Repo: https://github.com/TeampPro/totalproject
+
+---
+
+## ✅ What I’m Good At
+- **협업/리딩**: 팀장 경험(기능 정의, 일정 관리, 커밋 컨벤션·브랜치 전략 운영)
+- **문제 해결**: 원인 분석 → 재현 → 수정 → 안정화까지 “끝까지” 처리
+- **품질 관점**: IATF 16949 인증 실무 경험으로 **표준/문서/프로세스 기반** 업무 이해
+
+---
+
+## 🧩 Core Skills
 <div align="center">
-  <h3>👋 Introduce Myself</h3>
-  <p><b>성장하는 과정을 즐기며, 웹 서비스와 협업 도구에 관심을 두고 꾸준히 공부하고 있는 개발자입니다.</b></p>
-  <p>일정 · 할 일 · 채팅 · 커뮤니티를 한 곳에 모은 웹 서비스 <b>Planix</b> 프로젝트를 통해<br/>
-  프론트엔드·백엔드·협업까지 전반적인 개발 흐름을 경험했습니다.</p>
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-2F4F4F?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-B3D9FF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/WebSocket-3561f1?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</div>
+
+<details>
+  <summary><b>📚 More (Studying / Tools / Others)</b></summary>
+
+  <br/>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </div>
+
+</details>
+
+---
+
+## 🏅 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aka980824&show_icons=true&bg_color=60,020715,3561f1&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka980824&layout=compact&bg_color=60,020715,3561f1&title_color=ffffff&text_color=ffffff" height="165"/>
 </div>
 
 ---
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-
-<div align="center">
-  <!-- Core Web -->
-  <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Styling -->
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp
-</div>
-
-<br />
-
-<div align="center">
-  <!-- ETC Languages -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-</div>
-
----
-
-<h3 align="center">📚 Studying 📚</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
-
----
-
-<h3 align="center">🛠 Tools 🛠</h3>
-
-<div align="center">
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VS%20Code-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Design & Docs -->
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=000000" />&nbsp
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Data / 분석 도구 (필요 시) -->
-  <img src="https://img.shields.io/badge/Jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-</div>
-
----
-
-<h3 align="center">📫 Contact 📫</h3>
-
-<div align="center">
-  <a href="mailto:aka980824@naver.com">
-    <img
-      src="https://img.shields.io/badge/aka980824@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"
-    />
-  </a>
-</div>
-
----
-
-<h3 align="center">🏅 Stats 🏅</h3>
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aka980824&show_icons=true&bg_color=60,020715,3561f1&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-    height="165"
-/>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka980824&layout=compact&bg_color=60,020715,3561f1&title_color=ffffff&text_color=ffffff"
-    height="165"
-/>
-
-</div>
-
-<!-- 단순 텍스트 버전 Top Langs (옵션) -->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aka980824&layout=compact)
--->
-https://teamppro.github.io/totalproject/main
+## 📫 Contact
+- Email: aka980824@naver.com
